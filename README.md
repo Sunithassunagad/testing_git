@@ -1,2 +1,1 @@
-# testing_git
-Testing Git knowledge 
+Learning the React 
